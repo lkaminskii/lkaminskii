@@ -1,6 +1,7 @@
 ### Olá, eu sou Lucas!
 
  Trabalhando atualmente como: Montador Mecânico
+ 
  Estudando: Java
 
 <div style="display: inline_block"><br>
