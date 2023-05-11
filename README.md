@@ -2,7 +2,7 @@
 
  Trabalhando atualmente como: Montador Mecânico
  
- Estudando: Java
+ Estudando: Desenvolvimento Web (Java, HTML5&CSS3, Javascript)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
